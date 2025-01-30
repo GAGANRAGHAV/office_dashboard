@@ -2,6 +2,13 @@
 
 A simple Flutter application that displays a **performance chart** using `fl_chart`. It includes a **line graph** with a sleek UI and supports custom fonts and assets.  
 
+
+
+## 📷 Screenshots  
+<img src="assets/screenshot.png"> 
+<img src="assets/tabletview.png" >  
+
+
 ## 🚀 Features  
 ✅ **Performance Chart** 📊 – Displays data visually using `fl_chart`  
 ✅ **Beautiful UI** 🎨 – Uses `google_fonts` and `glassmorphism` for styling  
@@ -40,9 +47,4 @@ A simple Flutter application that displays a **performance chart** using `fl_cha
   ├── screens      # UI Screens
 /pubspec.yaml      # Dependencies & Asset Management
 ```
-
-## 📷 Screenshots  
-<img src="assets/screenshot.png"> 
-<img src="assets/tabletview.png" >  
-
 
