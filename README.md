@@ -19,8 +19,8 @@ A simple Flutter application that displays a **performance chart** using `fl_cha
 ## 🛠 Installation  
 1. **Clone the repo**  
    ```sh
-   git clone https://github.com/your-repo/flutter-performance-chart.git
-   cd flutter-performance-chart
+   git clone https://github.com/GAGANRAGHAV/office_dashboard.git
+   cd office_dashboard
    ```
 2. **Install dependencies**  
    ```sh
@@ -45,6 +45,4 @@ A simple Flutter application that displays a **performance chart** using `fl_cha
 <img src="assets/screenshot.png"> 
 <img src="assets/tabletview.png" >  
 
-## 📜 License  
-This project is open-source. Feel free to modify and improve it!  
 
