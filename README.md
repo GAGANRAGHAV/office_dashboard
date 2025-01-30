@@ -1,4 +1,4 @@
-# 📱 Flutter Performance Chart App  
+# 📱 Office Use Dashboard
 
 A simple Flutter application that displays a **performance chart** using `fl_chart`. It includes a **line graph** with a sleek UI and supports custom fonts and assets.  
 
