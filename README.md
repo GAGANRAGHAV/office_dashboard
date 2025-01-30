@@ -42,7 +42,8 @@ A simple Flutter application that displays a **performance chart** using `fl_cha
 ```
 
 ## 📷 Screenshots  
-<img src="assets/user1.jpg" width="200px"> <img src="assets/user2.jpg" width="200px">  
+<img src="assets/screenshot.png"> 
+<img src="assets/tabletview.png" >  
 
 ## 📜 License  
 This project is open-source. Feel free to modify and improve it!  
